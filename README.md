@@ -2,21 +2,19 @@ IPAAnalyzer
 A modern macOS app for analyzing and comparing iOS .ipa files with detailed insights into app size, binaries, frameworks, and assets.
 Features
 🔍 Single IPA Analysis
-* Extract app metadata:
-    * App name
-    * Bundle identifier
-    * Version & build number
-    * Minimum iOS version
-    * Supported device families
+
+
 * Detailed size breakdown:
     * App binary
     * Frameworks
     * Assets
     * Plugins/extensions
+    
 * File tree explorer with:
     * Search
     * Sorting
     * Hierarchical navigation
+    
 * Binary analysis:
     * Mach-O parsing
     * Architecture detection
